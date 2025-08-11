@@ -148,7 +148,7 @@ They are trained on vast amounts of text and can perform tasks like translation,
 
 
 
-#### **a. Transformers**
+#### **Transformers**
 
 Transformers, introduced in the paper "Attention Is All You Need" (Vaswani et al., 2017), use an attention mechanism to process input sequences in parallel.
 
